@@ -32,8 +32,8 @@
         <el-button
           type="primary"
           @click="submitForm('ruleForm')"
-        >提交</el-button>
-        <el-button @click="resetForm('ruleForm')">重置</el-button>
+        >注册</el-button>
+        <el-button @click="resetForm('ruleForm')">登录</el-button>
       </el-form-item>
     </el-form>
   </div>
